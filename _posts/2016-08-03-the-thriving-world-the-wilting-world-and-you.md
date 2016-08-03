@@ -54,14 +54,12 @@ app_links:
     namespace: google
     type: android
 title: 'The Thriving World, the Wilting World, and You'
-datePublished: '2016-08-03T19:51:03.441Z'
-dateModified: '2016-08-03T19:49:46.161Z'
+datePublished: '2016-08-03T22:21:45.304Z'
+dateModified: '2016-08-03T22:21:44.924Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-03-the-thriving-world-the-wilting-world-and-you.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: the-thriving-world-the-wilting-world-and-you/index.html
 _type: Article
 _context: 'http://schema.org'
