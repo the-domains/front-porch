@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.07289685006253421
 name: Front Porch
+navigation:
+  - name: Inspiration
+    id: c85ee539-87ac-456a-9cd9-cd6a123e6c4f
+    type: content
 title: The Front Porch
 description: On Entrepreneurship & Faith
