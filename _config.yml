@@ -1,0 +1,14 @@
+layout_spectrum: 0.07289685006253421
+typography_spectrum: 0.41898492630571127
+color:
+  brandStrength: 0.15427476889453828
+  lightness: 0.5376992106903344
+  saturation: 0.5788795165717602
+  rhythmicContrast: 0.22235732339322567
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Front Porch
